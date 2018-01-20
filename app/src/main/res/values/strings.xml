@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android Assistant</string>
+    <string name="menu_settings">Settings</string>
+    <string name="hello_world">Android Assistant</string>
+
+    <string name="findContact">find person&#8230;</string>
+</resources>
